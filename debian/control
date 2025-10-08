@@ -15,5 +15,6 @@ Package: web-devicons-nvim
 Architecture: all
 Depends:
  ${misc:Depends},
+ ${vim-addon:Depends},
  neovim (>= 0.7),
 Description: Nerd Fonts icons for use by neovim plugins
