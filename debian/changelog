@@ -1,3 +1,52 @@
+web-devicons-nvim (1:0.100-91-gb82-1) unstable; urgency=medium
+
+  [ Dimitry Ishenko ]
+  * Merge tag 'v0.100-91-gb822'
+  * d/control: fix warning
+
+  [ Alexander Siryk ]
+  * feat: add global blend option (#609)
+
+  [ Samuel Huang ]
+  * fix: use dedicated icon for bash (#611)
+
+  [ github-actions[bot] ]
+  * chore: update pre-commit hooks (#610)
+
+  [ Igor Lacerda ]
+  * fix: use correct ft for text (#607)
+
+  [ Picalines ]
+  * feat: playwright icons (#602)
+
+  [ Igor Lacerda ]
+  * fix: add missing filetype mappings (#604)
+
+  [ Picalines ]
+  * feat: add vite and vitest icons #603
+  * feat: add pnpm icons (#601)
+
+  [ Erick Malcoaccha ]
+  * feat: add frag, geom, glsl, vert icons (#600)
+
+  [ Reko ]
+  * feat: add Jenkinsfile icon (#598)
+
+  [ Lopy ]
+  * feat: add hyprsunset.conf and xdph.conf (#597)
+
+  [ drujban ]
+  * feat: add next.js icons (#596)
+
+  [ OriCat101 ]
+  * feat: added jar icons (#593)
+  * feat: added coldfusion icons (#592)
+
+  [ hankertrix ]
+  * feat: add wmv icon (#591)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 08 Oct 2025 15:56:03 -0400
+
 web-devicons-nvim (1:0.100-76-g19d6-1) unstable; urgency=medium
 
   * Change versioning scheme.
