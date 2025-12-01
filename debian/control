@@ -1,4 +1,4 @@
-Source: web-devicons-nvim
+Source: nvim-web-devicons
 Section: editors
 Priority: optional
 Maintainer: Dimitry Ishenko <dimitry.ishenko@gmail.com>
@@ -7,11 +7,11 @@ Build-Depends:
  dh-vim-addon,
 Standards-Version: 4.6.2
 Homepage: https://github.com/nvim-tree/nvim-web-devicons
-Vcs-Browser: https://github.com/dimitry-ishenko-vim/web-devicons-nvim
-Vcs-Git: https://github.com/dimitry-ishenko-vim/web-devicons-nvim.git
+Vcs-Browser: https://github.com/dimitry-ishenko-vim/neovim-web-devicons
+Vcs-Git: https://github.com/dimitry-ishenko-vim/neovim-web-devicons.git
 Rules-Requires-Root: no
 
-Package: web-devicons-nvim
+Package: neovim-web-devicons
 Architecture: all
 Depends:
  ${misc:Depends},

@@ -1,4 +1,4 @@
-web-devicons-nvim (1:0.100-91-gb82-1) unstable; urgency=medium
+nvim-web-devicons (1:0.100-91-gb82-1) unstable; urgency=medium
 
   [ Dimitry Ishenko ]
   * Merge tag 'v0.100-91-gb822'
