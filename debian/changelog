@@ -1,3 +1,9 @@
+nvim-web-devicons (1:0.100-91-gb82-2) unstable; urgency=medium
+
+  * web-devicons-nvim => neovim-web-devicons
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 12 Jan 2026 12:20:47 -0500
+
 nvim-web-devicons (1:0.100-91-gb82-1) unstable; urgency=medium
 
   [ Dimitry Ishenko ]
