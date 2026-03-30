@@ -1,3 +1,36 @@
+nvim-web-devicons (1:0.100-100-gd746-1) unstable; urgency=medium
+
+  [ Dimitry Ishenko ]
+  * Merge tag 'v0.100-100-gd746'
+  * d/control: update links
+
+  [ github-actions[bot] ]
+  * chore: update pre-commit hooks (#624)
+  * chore: update pre-commit hooks (#613)
+
+  [ Saeed M farahani ]
+  * feat: add svx icon (#623)
+
+  [ Matheus Ashton Silva ]
+  * feat: add dune icon (#621)
+
+  [ Collin MacDonald ]
+  * feat: add racket icon (#620)
+
+  [ Alexander Courtis ]
+  * docs: CONTRIBUTING.md: add Validate step (#619)
+
+  [ Mike Hartington ]
+  * feat: add prisma config icons (#618)
+
+  [ Samuel Huang ]
+  * feat: add .xslt icon (#616)
+
+  [ sunwoo ]
+  * fix: update luacheckrc name (#612)
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 30 Mar 2026 10:46:58 -0400
+
 nvim-web-devicons (1:0.100-91-gb82-2) unstable; urgency=medium
 
   * web-devicons-nvim => neovim-web-devicons
