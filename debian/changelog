@@ -1,3 +1,9 @@
+nvim-web-devicons (1:0.100-100-gd746-2) unstable; urgency=medium
+
+  * Add Debian Release workflow
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 07 Apr 2026 15:28:24 -0400
+
 nvim-web-devicons (1:0.100-100-gd746-1) unstable; urgency=medium
 
   [ Dimitry Ishenko ]
